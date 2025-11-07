@@ -17,7 +17,7 @@ void process1(void){
         else{
              std::cout << "Cycle number " << counter << "\n";
         }
-         usleep(500000); // sleep for 0.5 seconds
+         usleep(800000); // 0.8 sleep
     }
 }
 
