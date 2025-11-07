@@ -8,7 +8,7 @@ using namespace std;
 
 void process2(void){
     int counter = 0; // counter variable
-    int cycle = 0; // cycle counter/
+    int cycle = 0; // cycle counter
 
     while(true){ // forever loop
 
