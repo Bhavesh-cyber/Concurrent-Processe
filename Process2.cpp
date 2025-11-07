@@ -21,7 +21,7 @@ void process2(void){
              std::cout << "Cycle number " << cycle << "\n";
         }
         cycle++;
-        usleep(800000); // 0.8 sleep
+        sleep(1); // 1 sleep
     }
 }
 int main(void){
